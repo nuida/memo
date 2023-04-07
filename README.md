@@ -13,3 +13,12 @@
 (&amp;nbsp; | &nbsp;)（←空白） &nbsp;
 (&amp;ouml; | &ouml;) &nbsp;
 (&amp;uuml; | &uuml;)
+
+## 日本国内の大学が発行（または関連）している数学系の論文誌
+
+＊順不同（見つけた順番に書いています）
+
+- [Hiroshima Mathematical Journal](http://www.math.sci.hiroshima-u.ac.jp/hmj/)
+- [東北数学雑誌 (Tohoku Mathematical Journal)](http://www.math.tohoku.ac.jp/tmj/Jmain.html)
+- [Hokkaido Mathematical Journal](https://www.math.sci.hokudai.ac.jp/hmj/)
+- [Nihonkai Mathematical Journal](http://mathweb.sc.niigata-u.ac.jp/nmj/index.html)
