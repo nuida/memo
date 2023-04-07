@@ -33,3 +33,8 @@
 - [Kumamoto Journal of Mathematics](http://www.sci.kumamoto-u.ac.jp/~kjm/)
 - [Tokyo Journal of Mathematics](http://www.tokyojm.jp/index.html)
 - [SUT Journal of Mathematics](https://www.rs.tus.ac.jp/sutjmath/)
+- [Nagoya Mathematical Journal](https://www.math.nagoya-u.ac.jp/ja/journal/index.html)
+- [Kyoto Journal of Mathematics](https://www.math.kyoto-u.ac.jp/journal/index.html)
+- [Publications of the Research Institute for Mathematical Sciences](https://www.kurims.kyoto-u.ac.jp/~prims/index.html)
+- [Tsukuba journal of mathematics](https://nc.math.tsukuba.ac.jp/publications/Tsukuba-Journal-of-Mathematics/)
+- [Mathematical Journal of Ibaraki University](https://www.jstage.jst.go.jp/browse/mjiu)
