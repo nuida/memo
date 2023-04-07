@@ -16,9 +16,13 @@
 
 ## 日本国内の大学が発行（または関連）している数学系の論文誌
 
-＊順不同（見つけた順番に書いています）
+＊順不同（見つけた順番に順次追加しています）
 
 - [Hiroshima Mathematical Journal](http://www.math.sci.hiroshima-u.ac.jp/hmj/)
 - [東北数学雑誌 (Tohoku Mathematical Journal)](http://www.math.tohoku.ac.jp/tmj/Jmain.html)
 - [Hokkaido Mathematical Journal](https://www.math.sci.hokudai.ac.jp/hmj/)
 - [Nihonkai Mathematical Journal](http://mathweb.sc.niigata-u.ac.jp/nmj/index.html)
+- [Saitama Mathematical Journal](http://www.rimath.saitama-u.ac.jp/research/)
+- [Journal of Mathematical Sciences](https://www.ms.u-tokyo.ac.jp/journal/index.html)
+- [Kodai Mathematical Journal](https://www.math.titech.ac.jp/~tosho/Journal/info-j.html)
+- 
