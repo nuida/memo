@@ -32,3 +32,4 @@
 - [International Journal of Mathematics for Industry](https://www.imi.kyushu-u.ac.jp/publication/)
 - [Kumamoto Journal of Mathematics](http://www.sci.kumamoto-u.ac.jp/~kjm/)
 - [Tokyo Journal of Mathematics](http://www.tokyojm.jp/index.html)
+- [SUT Journal of Mathematics](https://www.rs.tus.ac.jp/sutjmath/)
