@@ -25,4 +25,9 @@
 - [Saitama Mathematical Journal](http://www.rimath.saitama-u.ac.jp/research/)
 - [Journal of Mathematical Sciences](https://www.ms.u-tokyo.ac.jp/journal/index.html)
 - [Kodai Mathematical Journal](https://www.math.titech.ac.jp/~tosho/Journal/info-j.html)
-- 
+- [Toyama Mathematical Journal](https://www.sci.u-toyama.ac.jp/math/tmj/index.html)
+- [Osaka Journal of Mathematics](http://www.math.sci.osaka-u.ac.jp/ojm/)
+- [Mathematical Journal of Okayama University](https://www.math.okayama-u.ac.jp/mjou/index.html)
+- [Kyushu Journal of Mathematics](https://www2.math.kyushu-u.ac.jp/~kjm/)
+- [International Journal of Mathematics for Industry](https://www.imi.kyushu-u.ac.jp/publication/)
+- [Kumamoto Journal of Mathematics](http://www.sci.kumamoto-u.ac.jp/~kjm/)
