@@ -19,7 +19,8 @@
 - oの上に斜め線二つ（点が二つ、ではない）が付く文字： \H{o}
 - 「証明できる」の記号（ターンスタイル記号）： \vdash
 - カウンタの定義：（TeX式） \newcount\counterA （LaTeX式） \newcounter{counterA}
-  - labelコマンドで参照可能な形でカウンタを進める際は \refstepcounter を用いる 
+  - labelコマンドで参照可能な形でカウンタを進める際は \refstepcounter を用いる
+- 太文字（\mathbb{R}や\mathbb{C}と似た書体）の1： \mathbbm{1}　（\usepackage{bbm}が必要）
 
 参考：[Detexify](http://detexify.kirelabs.org/classify.html)
 
