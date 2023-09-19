@@ -22,6 +22,7 @@
   - labelコマンドで参照可能な形でカウンタを進める際は \refstepcounter を用いる
 - 太文字（\mathbb{R}や\mathbb{C}と似た書体）の1： \mathbbm{1}　（\usepackage{bbm}が必要）
 - aの上に丸（Damgardの二つ目のa）： \aa
+- oに斜線が付いた文字： \o （小文字）、\O （大文字）
 
 参考：[Detexify](http://detexify.kirelabs.org/classify.html)
 
